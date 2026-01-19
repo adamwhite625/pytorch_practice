@@ -2,7 +2,7 @@
 */*.ipynb_checkpoints/*.ipynb
 */__pycache__
 */*.pth
-*/data
+/data
 */*/__pycache__
 .vscode
 
